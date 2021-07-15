@@ -1,1 +1,1 @@
-# php-jquery
+# php-jQuery
